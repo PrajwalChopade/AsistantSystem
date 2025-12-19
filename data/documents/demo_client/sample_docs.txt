@@ -1,0 +1,76 @@
+# Sample Knowledge Base for Demo Client
+# This file demonstrates the expected format for documentation
+
+## Password Reset
+
+To reset your password:
+1. Go to Settings > Security
+2. Click "Reset Password"
+3. Enter your current password
+4. Enter your new password twice
+5. Click "Save Changes"
+
+Note: Passwords must be at least 8 characters with one uppercase letter and one number.
+
+---
+
+## Account Settings
+
+You can manage your account settings by navigating to Settings > Account.
+
+Available options:
+- Update email address
+- Change display name
+- Manage notification preferences
+- Download account data
+- View login history
+
+---
+
+## Billing Information
+
+Our billing cycle runs monthly on the date you signed up.
+
+Accepted payment methods:
+- Visa
+- Mastercard
+- American Express
+- PayPal
+
+To update your payment method:
+1. Go to Settings > Billing
+2. Click "Payment Methods"
+3. Add or update your card details
+
+---
+
+## Refund Policy
+
+Refunds are available within 30 days of purchase for annual plans.
+Monthly subscriptions are non-refundable but you can cancel anytime.
+
+To request a refund, please contact our support team with your order number.
+
+---
+
+## Data Export
+
+You can export your data at any time:
+1. Go to Settings > Privacy
+2. Click "Export My Data"
+3. Select the data types to include
+4. Click "Generate Export"
+
+The export will be emailed to you within 24 hours.
+
+---
+
+## Account Deletion
+
+To delete your account:
+1. Go to Settings > Account
+2. Scroll to "Danger Zone"
+3. Click "Delete Account"
+4. Confirm by entering your password
+
+Warning: Account deletion is permanent and cannot be undone. All your data will be removed within 30 days.
